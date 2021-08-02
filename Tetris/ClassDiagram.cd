@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Brick" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAEAAAEgAAAAABAAACAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAQAAAhAAAAAQgAMAAQAAEAIAAAAAAAAAAAI=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figI" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figZ" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figS" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figT" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figL" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figJ" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figO" Collapsed="true">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAEgCACUgAgAQgAAIAAAAQQqCAAAAAAAgAEAAQAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Point" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="colors" Collapsed="true">
+    <Position X="24" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAhgAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Figures" Collapsed="true">
+    <Position X="25.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyFAAE=</HashCode>
+      <FileName>Tetris.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
