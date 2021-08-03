@@ -61,12 +61,12 @@ public:
 		if (!next)
 		{
 			img.setPosition(vector2d.x * 18, vector2d.y * 18);
-			img.move(28, 31); //offset
+			img.move(28.0, 31.0); //offset
 		}
 		else
 		{
 			img.setPosition(vector2d.x * 18 + 18, vector2d.y * 18);
-			img.move(237, 55);
+			img.move(237.0, 55.0);
 		}
 		window.draw(img);
 	}
